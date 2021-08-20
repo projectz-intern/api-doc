@@ -26,7 +26,7 @@ Sample code is available for reference in Java, and Python on the right. The
 Java code requires the Unirest library. The Python code requires the Unirest
 and Json libraries.
 
-To integrate the OCRANE Enterprise API with your application, check out the
+To integrate the OCRAN Enterprise API with your application, check out the
 [Getting Started] section for a step-by-step guide and workflow overview.
 
 # Releases
@@ -42,11 +42,6 @@ To integrate the OCRANE Enterprise API with your application, check out the
  Uploaded!
  </aside>
 
-
-## Change log
-
-#### Released July 07,2021
-#### Released June 20,2021
 
 ### Summary
 
