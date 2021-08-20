@@ -18,7 +18,7 @@ code_clipboard: true
 
 # Introduction
 
-Welcome to the OCRANE Enterprise API documentation. The OCRANE Enterprise
+Welcome to the OCRAN Enterprise API documentation. The OCRAN Enterprise
 API allows a client to upload receipt documents and view the raw results in
 the form of a structured data set.
 
